@@ -1,0 +1,4 @@
+Flask
+ibm-db
+sendgrid
+mailjet-rest
